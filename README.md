@@ -17,29 +17,30 @@ The workflow is implemented using Python and Jupyter Notebook to ensure full rep
 
 # 📁 Repository Structure
 
+```
 .
 ├── Code/
-│ ├── Homework1_Q1.ipynb # Question 1 analysis
-│ ├── Homework1_Q2.ipynb # Question 2 analysis
-│ └── Q3/
-│ ├── analysis.py # Core quantitative analysis pipeline
-│ ├── fetch_data.py # Data loading and preprocessing
-│ └── visualize.py # Visualization utilities
+│   ├── Homework1_Q1.ipynb          # Question 1 analysis
+│   ├── Homework1_Q2.ipynb          # Question 2 analysis
+│   └── Q3/
+│       ├── analysis.py             # Core quantitative analysis pipeline
+│       ├── fetch_data.py           # Data loading and preprocessing
+│       └── visualize.py            # Visualization utilities
 │
 ├── Data/
-│ ├── Q1/
-│ │ ├── histretSP.csv
-│ │ └── mpf_category_annual_returns.csv
-│ │
-│ └── Q3/
-│ ├── benchmarks_monthly.csv
-│ ├── ff5_factors.csv
-│ ├── mom_factor.csv
-│ ├── hfgm_monthly.csv
-│ ├── analysis_results.pkl
-│ └── HFGM_Quantitative_Analysis_Report.xlsx
+│   ├── Q1/
+│   │   ├── histretSP.csv
+│   │   └── mpf_category_annual_returns.csv
+│   └── Q3/
+│       ├── benchmarks_monthly.csv
+│       ├── ff5_factors.csv
+│       ├── mom_factor.csv
+│       ├── hfgm_monthly.csv
+│       ├── analysis_results.pkl
+│       └── HFGM_Quantitative_Analysis_Report.xlsx
 │
 └── README.md
+```
 
 ---
 
