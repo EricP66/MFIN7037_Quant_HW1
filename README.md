@@ -16,6 +16,7 @@ The workflow is implemented using Python and Jupyter Notebook to ensure full rep
 ---
 
 # 📁 Repository Structure
+
 .
 ├── Code/
 │ ├── Homework1_Q1.ipynb # Question 1 analysis
